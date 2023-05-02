@@ -16,3 +16,13 @@ seller selfbot based on discord.js-selfbot-v13 is a [Node.js](https://nodejs.org
 - [X] autosender: Sends a message to a specified channel at a specified time interval.
 - [X] transactions: Show the five most recent transactions for a given LTC address
 - [X] help: Lists all available commands or provides information about a specific command.
+
+
+## Host on Replit
+
+Fork the repository
+Go to https://www.replit.com
+Create an account
+Fork your project at https://replit.com/github
+Edit config.json
+RUN AND ENTER TOKEN IN CONSOLE
