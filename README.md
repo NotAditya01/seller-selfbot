@@ -10,7 +10,7 @@ seller selfbot based on discord.js-selfbot-v13 is a [Node.js](https://nodejs.org
 
 
 ## Features (User)
-- [x]bal: Check your LTC balance in USD
+- [x] bal: Check your LTC balance in USD
 - [x] calc: Performs simple arithmetic operations
 - [X] price: Shows the current market price of a given cryptocurrency in USD
 - [X] autosender: Sends a message to a specified channel at a specified time interval.
