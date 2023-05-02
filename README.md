@@ -1,4 +1,4 @@
-# seller-slefbot
+# seller-selfbot
 
 ## About
 
