@@ -21,8 +21,5 @@ seller selfbot based on discord.js-selfbot-v13 is a [Node.js](https://nodejs.org
 ## Host on Replit
 
 Fork the repository
-Go to https://www.replit.com
-Create an account
-Fork your project at https://replit.com/github
 Edit config.json
 RUN AND ENTER TOKEN IN CONSOLE
